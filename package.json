@@ -16,9 +16,6 @@
     "express"
   ],
   "author": " <forinda82@gmail.com>",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "license": "GPL-3.0",
   "dependencies": {
     "chalk": "^4.1.2",
