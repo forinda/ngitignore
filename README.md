@@ -5,7 +5,7 @@ One time install and create .gitignore while offline
 
 ![Issues](https://img.shields.io/github/issues/forinda/ngitignore)
 ![Stars](https://img.shields.io/github/stars/forinda/ngitignore)
-![Forks](https://img.shields.io/github/forks/forinda/n-ignore?style=social)
+![Forks](https://img.shields.io/github/forks/forinda/ngitignore?style=social)
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffelix_orinda)
 ![stars](https://img.shields.io/github/stars/forinda/ngitignore)
 ![License](https://img.shields.io/github/license/forinda/ngitignore)
