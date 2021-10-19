@@ -3,12 +3,12 @@
 This package creates a `.gitignore` in the current directory
 One time install and create .gitignore while offline
 
-![Issues](https://img.shields.io/github/issues/forinda/n-ignore)
-![Stars](https://img.shields.io/github/stars/forinda/n-ignore)
+![Issues](https://img.shields.io/github/issues/forinda/ngitignore)
+![Stars](https://img.shields.io/github/stars/forinda/ngitignore)
 ![Forks](https://img.shields.io/github/forks/forinda/n-ignore?style=social)
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffelix_orinda)
-![stars](https://img.shields.io/github/stars/forinda/n-ignore)
-![License](https://img.shields.io/github/license/forinda/n-ignore)
+![stars](https://img.shields.io/github/stars/forinda/ngitignore)
+![License](https://img.shields.io/github/license/forinda/ngitignore)
 <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
