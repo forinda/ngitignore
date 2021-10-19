@@ -1,0 +1,28 @@
+{
+  "name": "ngitignore",
+  "version": "1.2.0",
+  "description": "A simple CLI package for creating a .gitignore file. This package creates a .gitignore in the current directory One time install and create .gitignore while offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "ngitignore": "index.js"
+  },
+  "keywords": [
+    "CLI",
+    ".gitignore",
+    "node",
+    "express"
+  ],
+  "author": {
+    "email": "forinda82@gmail.com",
+    "username": "forinda"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "conf": "^10.0.3"
+  }
+}
