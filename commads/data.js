@@ -1,6 +1,4 @@
 module.exports = data = `
-
-
 # Created by https://www.toptal.com/developers/gitignore/api/node,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,yarn
 
