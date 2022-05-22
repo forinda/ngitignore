@@ -1,5 +1,4 @@
-module.exports = data = `
-# Created by https://www.toptal.com/developers/gitignore/api/node,yarn
+module.exports = data = `# Created by https://www.toptal.com/developers/gitignore/api/node,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,yarn
 
 ### Node ###
@@ -49,6 +48,8 @@ jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
+# TypeScript v1 declaration files
+typings/
 
 # TypeScript cache
 *.tsbuildinfo
@@ -87,6 +88,12 @@ web_modules/
 .next
 out
 
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Next.js build output
+.next
+
 # Nuxt.js build / generate output
 .nuxt
 dist
@@ -94,6 +101,7 @@ dist
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
+# Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
@@ -143,6 +151,4 @@ dist
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/node,yarn
-
-
 `
