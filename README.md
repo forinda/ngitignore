@@ -14,6 +14,10 @@ One time install and create .gitignore while offline
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+# Working with the package without installing the package
+```sh
+$ npx ngitignore create
+```
 # How to use
 
 Install the package globally using the command below
@@ -51,4 +55,5 @@ $ ngitignore create
 Hurray 🥳🥳🚀🚀
 Successfully created a .gitignore file
 ```
+
   
