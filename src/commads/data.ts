@@ -1,4 +1,4 @@
-module.exports = data = `# Created by https://www.toptal.com/developers/gitignore/api/node,yarn
+const data = `# Created by https://www.toptal.com/developers/gitignore/api/node,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,yarn
 
 ### Node ###
@@ -45,6 +45,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+build/
+dist/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -151,4 +153,5 @@ dist
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/node,yarn
-`
+`;
+export default data;
