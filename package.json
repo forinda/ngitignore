@@ -1,11 +1,11 @@
 {
   "name": "ngitignore",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A simple CLI package for creating a .gitignore file. This package creates a .gitignore in the current directory One time install and create .gitignore while offline",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build":"tsc"
+    "build": "tsc"
   },
   "bin": {
     "ngitignore": "./build/index.js"
