@@ -1,13 +1,13 @@
 {
   "name": "ngitignore",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "A simple CLI package for creating a .gitignore file. This package creates a .gitignore in the current directory One time install and create .gitignore while offline",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "bin": {
-    "ngitignore": "index.js"
+    "ngitignore": "./build/index.js"
   },
   "keywords": [
     "CLI",
@@ -23,7 +23,11 @@
     "conf": "^10.0.3"
   },
   "devDependencies": {
-    "jest": "^27.3.0"
+    "@types/commander": "^2.12.2",
+    "@types/conf": "^3.0.0",
+    "jest": "^27.3.0",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
   },
   "repository": {
     "type": "git",
@@ -32,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/forinda/ngitignore/issues"
   },
-  "homepage": "https://github.com/forinda/ngitignore#readme"
+  "homepage": "https://github.com/forinda/ngitignore#readme",
+  "directories": {
+    "doc": "docs"
+  }
 }
